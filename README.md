@@ -89,7 +89,7 @@ Menggabungkan subnet-subnet paling bawah dalam topologi, berikut penggabungannya
 Tree yang dibuat : </br>
 ![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/TREE.png) </br>
 Tabel : </br>
-![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/table.png) </br>
+![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/table.PNG) </br>
 Pertama-tama membuat file ```topologi.sh``` dengan konfigurasi berikut:
 ```
 # Switch

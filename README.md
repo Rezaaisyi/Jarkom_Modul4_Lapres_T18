@@ -1,5 +1,32 @@
 # Jarkom_Modul4_Lapres_T18
+
+- M. Reza Aisyi 05311840000031
+- Agnes Lesmono 05311840000044
 ## VLSM - CPT
+
+| Subnet | IP butuh | IP dikasih | Alamat | Netmask |
+| ------ | -------- | ---------- | ------ | ------- |
+A1 |1001|1022|192.168.4.0|/22|
+A2|2|2|192.168.0.0|/30|
+A3|2|2|192.168.0.4|/30|
+A4|101|126|192.168.0.128|/25|
+A5|701|1022|192.168.8.0|/22|
+A6|2021|2046|192.168.24.0|/21|
+A7|2|2|192.168.0.8|/30|
+A8|502|510|192.168.2.0|/23|
+A9|13|14|192.168.0.16|/28|
+A10|521|1022|192.168.12.0|/22|
+A11|2|2|192.168.0.12|/30|
+A12|252|254|192.168.1.0|/24|
+A13|721|1022|192.168.16.0|/22|
+**SUM**|**5841**|||**/19**|
+
+Subnet total menggunakan NID **192.168.0.0** netmask **/19**. Pembagian IP berdasarkan NID dan netmask dapat dilihat seperti gambar berikut:
+
+![pohon](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/VLSM/pohon%20VLSM.png)
+
+
+
 ## CIDR (Classless Inter Domain Routing) - UML
 Menggabungkan subnet-subnet paling bawah dalam topologi, berikut penggabungannya: </br>
 ![lingkaran](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/1.png)

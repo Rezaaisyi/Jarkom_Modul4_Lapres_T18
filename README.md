@@ -87,7 +87,9 @@ Untuk routing pada CPT, static route tiap router adalah sebagai berikut :
 Menggabungkan subnet-subnet paling bawah dalam topologi, berikut penggabungannya: </br>
 ![lingkaran](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/1.png)
 Tree yang dibuat : </br>
-![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/TREE.png)
+![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/TREE.png) </br>
+Tabel : </br>
+![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/table.png) </br>
 Pertama-tama membuat file ```topologi.sh``` dengan konfigurasi berikut:
 ```
 # Switch

@@ -2,7 +2,7 @@
 ## VLSM - CPT
 ## CIDR (Classless Inter Domain Routing) - UML
 Menggabungkan subnet-subnet paling bawah dalam topologi, berikut penggabungannya:
-![image](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/CIDR/1.png)
+![image](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/tree/main/CIDR/1.png)
 Pertama-tama membuat file ```topologi.sh``` dengan konfigurasi berikut:
 ```
 # Switch

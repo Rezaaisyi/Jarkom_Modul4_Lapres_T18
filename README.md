@@ -25,6 +25,29 @@ Subnet total menggunakan NID **192.168.0.0** netmask **/19**. Pembagian IP berda
 
 ![pohon](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/VLSM/pohon%20VLSM.png)
 
+NID dibagikan kepada subnet topologi dapat dilihat pada gambar dibawah (bisa dilihat juga di file pkt)
+
+![gambar](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/VLSM/top%20(2).png)
+
+Untuk routing pada CPT, static route tiap router adalah sebagai berikut :
+&nbsp;
+
+**SURABAYA**
+```
+192.168.0.4/30 via 192.168.0.2
+192.168.8.0/22 via 192.168.0.2
+192.168.0.128/25 via 192.168.0.2
+192.168.24.0/21 via 192.168.0.2
+192.168.2.0/23 via 192.168.0.10
+192.168.0.16/28 via 192.168.0.10
+192.168.12.0/22 via 192.168.0.10
+192.168.0.12/30 via 192.168.0.10
+192.168.1.0/24 via 192.168.0.10
+192.168.16.0/22 via 192.168.0.10
+10.151.71.124/30 via 192.168.0.10
+```
+
+
 
 
 ## CIDR (Classless Inter Domain Routing) - UML

@@ -31,7 +31,7 @@ Subnet total menggunakan NID **192.168.0.0** netmask **/19**. Pembagian IP berda
 Menggabungkan subnet-subnet paling bawah dalam topologi, berikut penggabungannya: </br>
 ![lingkaran](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/1.png)
 Tree yang dibuat : </br>
-![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/tree.png)
+![Tree](https://github.com/Rezaaisyi/Jarkom_Modul4_Lapres_T18/blob/main/CIDR/TREE.png)
 Pertama-tama membuat file ```topologi.sh``` dengan konfigurasi berikut:
 ```
 # Switch
